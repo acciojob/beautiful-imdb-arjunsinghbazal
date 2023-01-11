@@ -1,2 +1,12 @@
-
+.moviePic{
+    height: auto;
+    width: auto;
+    opacity: inherit;
+}
+.movieDetail{
+    top: auto;
+    width: auto;
+    text-align: left;
+    font-size: medium;
+}
 /* Your CSS Code here. */
